@@ -1,0 +1,12 @@
+# libraries
+/vendor
+
+# MACOS all .DS_Store
+.DS_Store
+
+# config files
+/config/*
+
+# test scripts or files
+/test
+test_*
